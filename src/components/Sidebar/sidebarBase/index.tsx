@@ -111,7 +111,7 @@ const SidebarBase: React.FC<Props & StyleProps> = ({
         title="Reclamă"
         content={
           <img
-            src={`../../../../../public/images/ad.jpg`}
+            src={`${process.env.PUBLIC_URL}/images/ad.jpg`}
             alt="Reclamă CNTV"
             className={classes.ad}
             width="50rem"
