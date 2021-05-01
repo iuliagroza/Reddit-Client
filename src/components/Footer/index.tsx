@@ -34,7 +34,7 @@ const footerLinks: InfoItem[] = [
   },
   {
     id: 4,
-    label: 'Colegiul National "Tudor Vladimirescu" Targu-Jiu',
+    label: 'Colegiul Național "Tudor Vladimirescu" Târgu-Jiu',
     link: '',
     target: true,
   },
