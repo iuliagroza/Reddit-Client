@@ -1,3 +1,4 @@
 # Reddit Minimal
-**README to be updated** &nbsp
-Built with create-react-app. You can visualize the app here https://iuliagrozaredditclient.netlify.app .
+**README to be updated** <br>
+Built with create-react-app. <br>
+You can visualize the app here https://iuliagrozaredditclient.netlify.app .
