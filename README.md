@@ -1,1 +1,1 @@
-"Hello world" 
+# Reddit Minimal
