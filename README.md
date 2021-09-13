@@ -1,6 +1,36 @@
 # Reddit Minimal
 
+**Reddit Minimal (Reddit Client)** is a front-end web app & filtering tool for posts and comments from your favourite subreddits. The user can perform basic operations, such as searching, previewing comments/upvotes, sharing and sorting (by Reddit's default categories) their favourite posts from a predefined list of subreddits. This way, if bookmarks are not useful enough, Reddit Minimal offers a new way of exploring a subject, by searching only posts and comments from subreddits of your interest. 
+
+The app is developed using API Reddit, the archived/unofficial Reddit API based on JSON. *! This is a school project, therefore, the app only supports the Romanian version. An English version will be developed soon.*
+
 You can visualize the app here https://iuliagrozaredditclient.netlify.app .
+
+## Features
+* sort posts by Reddit's default categories (Hot, New, Rising, Top);
+* gather information about posts, comments, users and subreddits;
+* sharing posts (by copying their link in the clipboard);
+* Dark Mode.
+
+## Technologies used
+* TypeScript;
+* React;
+* Redux;
+* (JSON) API Reddit (archived);
+
+## Bugs
+The app obtained a 78.75 score on LightHouse:
+* 28% Performance;
+* 98% Accesibility;
+* 93% Best Practices;
+* 100% SEO.
+
+Some present bugs:
+* the Home feed is not always responsive;
+* the data fetched from the API cannot be translated to Romanian;
+* edge cases are not taken into consideration when performing searches;
+* some minor problems with the app routing paths;
+* the grid of subreddits is not fluid.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
