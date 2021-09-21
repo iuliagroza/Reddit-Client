@@ -16,7 +16,8 @@ You can visualize the app here https://iuliagrozaredditclient.netlify.app .
 * TypeScript;
 * React;
 * Redux;
-* (JSON) API Reddit (archived);
+* (JSON) API Reddit (undocumented);
+* Jest, Enzyme, Selenium.
 
 ## Bugs
 The app obtained a 78.75 score on LightHouse:
